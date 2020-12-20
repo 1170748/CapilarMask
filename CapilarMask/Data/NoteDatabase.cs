@@ -44,5 +44,6 @@ namespace CapilarMask.Data
         {
             return _database.DeleteAsync(note);
         }
+
     }
 }

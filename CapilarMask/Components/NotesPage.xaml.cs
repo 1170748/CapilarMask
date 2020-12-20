@@ -43,5 +43,14 @@ namespace CapilarMask.Components
                 });
             }
         }
+
+        async void OnLimpar(object sender, EventArgs e)
+        {
+            foreach (Note note in await App.Database.GetNotesAsync())
+            {
+                await App.Database.DeleteNoteAsync(note);
+            }
+            this.OnAppearing();
+        }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaom\\OneDrive\\Documentos\\Apps\\CapilarMask\\CapilarMask\\CapilarMask.csproj": {}
+    "C:\\lixo\\CapilarMask\\CapilarMask\\CapilarMask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaom\\OneDrive\\Documentos\\Apps\\CapilarMask\\CapilarMask\\CapilarMask.csproj": {
+    "C:\\lixo\\CapilarMask\\CapilarMask\\CapilarMask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaom\\OneDrive\\Documentos\\Apps\\CapilarMask\\CapilarMask\\CapilarMask.csproj",
+        "projectUniqueName": "C:\\lixo\\CapilarMask\\CapilarMask\\CapilarMask.csproj",
         "projectName": "CapilarMask",
-        "projectPath": "C:\\Users\\joaom\\OneDrive\\Documentos\\Apps\\CapilarMask\\CapilarMask\\CapilarMask.csproj",
+        "projectPath": "C:\\lixo\\CapilarMask\\CapilarMask\\CapilarMask.csproj",
         "packagesPath": "C:\\Users\\joaom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaom\\OneDrive\\Documentos\\Apps\\CapilarMask\\CapilarMask\\obj\\",
+        "outputPath": "C:\\lixo\\CapilarMask\\CapilarMask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

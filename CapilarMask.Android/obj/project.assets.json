@@ -2174,11 +2174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaom\\OneDrive\\Documentos\\Apps\\CapilarMask\\CapilarMask.Android\\CapilarMask.Android.csproj",
+      "projectUniqueName": "C:\\lixo\\CapilarMask\\CapilarMask.Android\\CapilarMask.Android.csproj",
       "projectName": "CapilarMask.Android",
-      "projectPath": "C:\\Users\\joaom\\OneDrive\\Documentos\\Apps\\CapilarMask\\CapilarMask.Android\\CapilarMask.Android.csproj",
+      "projectPath": "C:\\lixo\\CapilarMask\\CapilarMask.Android\\CapilarMask.Android.csproj",
       "packagesPath": "C:\\Users\\joaom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaom\\OneDrive\\Documentos\\Apps\\CapilarMask\\CapilarMask.Android\\obj\\",
+      "outputPath": "C:\\lixo\\CapilarMask\\CapilarMask.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2199,8 +2199,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\joaom\\OneDrive\\Documentos\\Apps\\CapilarMask\\CapilarMask\\CapilarMask.csproj": {
-              "projectPath": "C:\\Users\\joaom\\OneDrive\\Documentos\\Apps\\CapilarMask\\CapilarMask\\CapilarMask.csproj"
+            "C:\\lixo\\CapilarMask\\CapilarMask\\CapilarMask.csproj": {
+              "projectPath": "C:\\lixo\\CapilarMask\\CapilarMask\\CapilarMask.csproj"
             }
           }
         }

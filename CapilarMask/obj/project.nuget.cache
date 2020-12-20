@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sbbYUtsLq49zJMAD0+SZxIYD6udx8Br8qburxIBuAPmju3geg1xhZJxZgZKI3BUUSZKaq1dc09pkDGbjP9BvuQ==",
+  "dgSpecHash": "wP23ibVaRAiFE6IKEYuAKef2rHxWHKMJVo62KXIDiOve9V8NmD/50Yfp8t1Lv8UBtmtAz/TZP+7y/OtHF3QTQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaom\\OneDrive\\Documentos\\Apps\\CapilarMask\\CapilarMask\\CapilarMask.csproj",
+  "projectFilePath": "C:\\lixo\\CapilarMask\\CapilarMask\\CapilarMask.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

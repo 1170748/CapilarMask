@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qfhfiL6wtdPiseS6xH7N/SOrcqWDbeglxskqlZPg89jlCN78V21/ScfiMl03Udv2/VXROmhiDDfPIFENCrwsfg==",
+  "dgSpecHash": "3h2zbFWbs/GeP4saGLogHsx2vWDrpeblhM5CF9lJ5fnHspSKUvtF99t/KwCaVDc+fLMh1psO+vNYNxwXSlPhVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaom\\OneDrive\\Documentos\\Apps\\CapilarMask\\CapilarMask.iOS\\CapilarMask.iOS.csproj",
+  "projectFilePath": "C:\\lixo\\CapilarMask\\CapilarMask.iOS\\CapilarMask.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaom\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
